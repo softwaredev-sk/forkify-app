@@ -11,11 +11,6 @@ import 'core-js/stable'; //for polyfilling everything else except async-await
 import 'regenerator-runtime/runtime'; //for polyfilling asyn-await
 import { async } from 'regenerator-runtime';
 
-//module.hot is not part of javascript, it is used for parcel to not reload whole page everytime.
-if (module.hot) {
-  module.hot.accept();
-}
-
 const controlRecipes = async function () {
   try {
     const id = window.location.hash.slice(1); //reading hash from url bar without the leading # symbol
