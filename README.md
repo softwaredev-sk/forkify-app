@@ -24,7 +24,6 @@ This project is build on MVC architecture which helps in keeping the project mod
 
 - Repository URL: [Github repository](https://github.com/develover-sk/forkify-app)
 - Live Site URL: [See it Live]()
-- NOTE: Upload recipe will not work without API_KEY in config-file in live Site URL.
 
 ## My process
 
