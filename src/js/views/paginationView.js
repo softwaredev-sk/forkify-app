@@ -32,7 +32,7 @@ class PaginationView extends View {
         </button>
         `;
     }
-    //Last Page
+    //Last Page when number of pages is more than 1
     if (currPage === numPages && numPages > 1) {
       return `
         <button data-goto="${
@@ -45,7 +45,7 @@ class PaginationView extends View {
         </button>
   `;
     }
-    //Other Page
+    //Other Page between first page and last page
     if (currPage < numPages) {
       return `
       <button data-goto="${
