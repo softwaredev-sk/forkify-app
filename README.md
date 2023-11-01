@@ -23,7 +23,7 @@ This project is build on MVC architecture which helps in keeping the project mod
 ### Links
 
 - Repository URL: [Github repository](https://github.com/develover-sk/forkify-app)
-- Live Site URL: [See it Live]()
+- Live Site URL: [See it Live](https://forkify-app-sk.netlify.app/)
 
 ## My process
 
