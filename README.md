@@ -10,7 +10,7 @@ This project is build on MVC architecture which helps in keeping the project mod
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [How To Run](#how-to-run)
+  - [How To Run](#how-to-run-with-npm)
 - [Author](#author)
 
 ## Overview
